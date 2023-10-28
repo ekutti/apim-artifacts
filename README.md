@@ -1,1 +1,1 @@
-# dev-apim-artifacts
+# qa-apim-artifacts
